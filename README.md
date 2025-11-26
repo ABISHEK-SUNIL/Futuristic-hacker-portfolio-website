@@ -63,5 +63,5 @@ To deploy on **GitHub Pages**:
 
 ## Connect with Me
 
-* **GitHub:** [moomoein](https://github.com/moomoein) * **LinkedIn:** [moomoein](https://linkedin.com/in/moomoein) * **Instagram:** [@moomoein](https://instagram.com/moomoein) * **Telegram:** [@moomoein](https://t.me/moomoein) *
+* **GitHub:** [Abishek Sunil](https://github.com/ABISHEK-SUNIL) * **LinkedIn:** [Abishek Sunil](https://linkedin.com/in/abishek-sunil-655b93344/) * **Instagram:** [@the_Godd_Man](https://instagram.com/the_godd_man/)  *
 This project was a great learning experience in building a feature-rich SPA with vanilla JavaScript and focusing on modern UI/UX trends.
